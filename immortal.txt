@@ -1,2 +1,8 @@
 I'd give anything to give me to you
+<<<<<<< HEAD
 Can you forget the world that you thought you knew?
+=======
+Can you forget the world that you thought you knew?
+I'd give anything to give me to you
+Can you forget the world that you thought you knew?
+>>>>>>> second commit
